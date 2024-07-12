@@ -78,6 +78,12 @@ Reseach on deep learning
 <span>
     <img src="https://img.shields.io/badge/ R-white?style=plastic&logo=R&logoColor=black"/>
 </span>
+<span>
+    <img src="https://img.shields.io/badge/ TensorFlow-red?style=plastic"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ PyTorch-yellow?style=plastic"/>
+</span>
 
 ## Poster Presentation
 - 'BERT를 활용한 해군 규정 검색 챗봇 연구', **육군 M&S 학회** ***(2022.11)***
