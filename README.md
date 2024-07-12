@@ -96,6 +96,10 @@ Reseach on deep learning
 <!-- My snake -->
 <img src="https://github.com/ehgud937/ehgud937/blob/output/github-snake.svg" width="100%">
 
+<br><br>
+<!-- Hit counter -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehgud937&count_bg=%232177B0&title_bg=%23BEBEB6&icon=github.svg&icon_color=%23418A96&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
+<br><br><br><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
