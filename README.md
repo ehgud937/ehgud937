@@ -94,7 +94,7 @@ Reseach on deep learning
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehgud937&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-<img src="https://github.com/ehgud937/ehgud937/blob/output/github-snake.svg" width="100%">
+<img src="https://github.com/ehgud937/ehgud937/blob/output/github-newsnake.svg" width="100%">
 
 <br><br>
 <!-- Hit counter -->
