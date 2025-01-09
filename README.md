@@ -5,11 +5,8 @@
 <br>
 <div align="center">  
 <br>
-<!-- My CV/resume -->
-<details>
-<summary>About Me</summary>
-<br><br>
 
+<!-- About Me Section -->
 <span>
   <a href="/">
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
@@ -31,8 +28,6 @@
   </a>
 </span>   
 <br><br>
-
-
 
 ## OBJECTIVE
 Reseach on deep learning
@@ -97,7 +92,6 @@ Reseach on deep learning
 - '통계학적 심야버스 시범노선 제안', **한국통계학회** ***(2019.11)*** 
 
 </div>
-</details>
 <br><br>
 <div align="center">
 <!-- My profile -->
