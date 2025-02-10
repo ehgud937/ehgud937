@@ -68,7 +68,10 @@ Reseach on deep learning
     <img src="https://img.shields.io/badge/ Tableau-darkorange?style=plastic&logo=Tableau&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ SQL-white?style=plastic&logo=Oracle&logoColor=red"/>
+    <img src="https://img.shields.io/badge/ MYSQL-white?style=plastic&logo=Oracle&logoColor=red"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ MariaDB-white?style=plastic&logo=Oracle&logoColor=red"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ R-white?style=plastic&logo=R&logoColor=black"/>
@@ -81,6 +84,9 @@ Reseach on deep learning
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Django-blue?style=plastic"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ FASTAPI-red?style=plastic"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Vue-green?style=plastic"/>
