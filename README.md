@@ -17,7 +17,6 @@
 class DohyeongKim:
     role      = "AI Engineer @ PIA SPACE"
     focus     = "Multi-camera unauthorized person identification & tracking"
-    also      = "AI Practice Coach @ Multicampus"
     education = "Kookmin Univ. — AI Big Data Convergence Management (B.S.)"
     motto     = "데이터에서 인사이트를, 모델에서 서비스를."
 ```
@@ -36,7 +35,8 @@ class DohyeongKim:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,matlab&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,vue,mysql,ubuntu,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,vue,mysql,ubuntu,git,github&theme=dark" /><br>
+  <img src="assets/jira.svg" width="48" title="Jira" /> <img src="assets/linear.svg" width="48" title="Linear" />
 </p>
 
 <br>
@@ -46,7 +46,7 @@ class DohyeongKim:
 | | Company | Role | Highlights |
 | :-- | :-- | :-- | :-- |
 | `2026.07 —` | **PIA SPACE** | AI Engineer | 멀티카메라 비인가자 식별 · 추적 |
-| `2025.06 —` | **Multicampus** | AI 실습코치 (Freelance) | CS Agent 개발 · 수료생 커뮤니티 PM · 경제부총리 대상 VIP 발표 |
+| `2025.06 — 2026.06` | **Multicampus** | AI 실습코치 (Freelance) | CS Agent 개발 · 수료생 커뮤니티 PM · 경제부총리 대상 VIP 발표 |
 | `2021.04 — 2022.12` | **해군미래혁신연구단** | 신기술융합연구병 | 군사용 번역기 · 진료시간 예측 · 규정 검색 챗봇 |
 | `2017.06 — 2017.12` | **삼중테크** | 사원 | 스크린도어 레이저 스캐너 프로그래밍 |
 
