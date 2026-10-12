@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:0d2a5c,100:1f6feb&height=220&section=header&text=Dohyeong%20Kim&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data&descSize=18&descAlignY=58&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,60:0d1b2a,100:1f6feb&height=220&section=header&text=Dohyeong%20Kim&fontSize=60&fontColor=2f81f7&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data&descSize=18&descAlignY=64&descColor=6e7681" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+multi-camera+Re-ID+%26+tracking+%40+PIA+SPACE;From+data+to+insight%2C+from+model+to+service;5x+awarded+at+Samsung+SW%C2%B7AI+Academy+(SSAFY)" alt="Typing SVG" /></a>
 
